@@ -8,10 +8,10 @@
 ---
 
 1. **Your wallet address:**  
-   _Your answer here._
+   0QDM1UgjG5eI4pKHtFxB4febihmBi7wtHQ3p8qUCERY3bhLF
 
 2. **Your deployed contract address:**  
-   _Your answer here._
+   kQDM1UgjG5eI4pKHtFxB4febihmBi7wtHQ3p8qUCERY3bk8A
 
 2. **Your Telegram ID (Optional):**  
-   _Your answer here._
+   @MagnusChase003
